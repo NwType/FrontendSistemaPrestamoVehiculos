@@ -1,0 +1,25 @@
+/* Estilos personalizados adicionales para la aplicación */
+/* Los estilos principales están en index.css con Tailwind */
+
+/* Personalizaciones específicas de la aplicación */
+.app-container {
+  min-height: 100vh;
+}
+
+/* Estilos para scrollbars personalizados */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}

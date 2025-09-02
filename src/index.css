@@ -1,0 +1,8 @@
+/* Importar estilos personalizados */
+@import './styles/main.css';
+
+/* Estilos adicionales específicos */
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
